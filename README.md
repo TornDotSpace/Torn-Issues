@@ -6,7 +6,6 @@ The official issue tracker for torn.space!
 * Website Issues
 * Typos or translation issues
 * Feature Requests / Ideas
-* Feature requests
 
 ***Do not report security vulnerabilities here! Please message a dev separately!***
 
