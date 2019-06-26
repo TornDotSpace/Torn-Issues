@@ -10,7 +10,7 @@ The official issue tracker for torn.space!
 
 ***Do not report security vulnerabilities here! Please message a dev separately!***
 
-# What to include in a issue report
+# What to include in an issue report
 * Try to be as detailed as possible
 * Steps to reproduce
 * Screen shots
