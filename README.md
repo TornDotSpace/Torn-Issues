@@ -4,7 +4,7 @@ The official issue tracker for torn.space!
 # What to report here
 * Game play issues
 * Website Issues
-* Typos or tranlation issues
+* Typos or translation issues
 * Feature Requests / Ideas
 
 ***Do not report security vulnerabilities here! Please message a dev separately!***
